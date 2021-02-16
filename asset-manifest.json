@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://beagle-boys.github.io/textube/static/css/main.2cfec1e4.chunk.css",
-    "main.js": "https://beagle-boys.github.io/textube/static/js/main.9c0beb07.chunk.js",
-    "main.js.map": "https://beagle-boys.github.io/textube/static/js/main.9c0beb07.chunk.js.map",
+    "main.js": "https://beagle-boys.github.io/textube/static/js/main.f40b5031.chunk.js",
+    "main.js.map": "https://beagle-boys.github.io/textube/static/js/main.f40b5031.chunk.js.map",
     "runtime-main.js": "https://beagle-boys.github.io/textube/static/js/runtime-main.d12ab06f.js",
     "runtime-main.js.map": "https://beagle-boys.github.io/textube/static/js/runtime-main.d12ab06f.js.map",
     "static/js/2.be5cefe9.chunk.js": "https://beagle-boys.github.io/textube/static/js/2.be5cefe9.chunk.js",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.d12ab06f.js",
     "static/js/2.be5cefe9.chunk.js",
     "static/css/main.2cfec1e4.chunk.css",
-    "static/js/main.9c0beb07.chunk.js"
+    "static/js/main.f40b5031.chunk.js"
   ]
 }
