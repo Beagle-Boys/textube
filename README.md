@@ -1,5 +1,6 @@
 # TEXTUBE
 ![CI](https://github.com/Beagle-Boys/textube/workflows/CI/badge.svg?branch=master)
+![CodeQL](https://github.com/Beagle-Boys/textube/workflows/CodeQL/badge.svg)
 
 ## RUN
 `npm start`
