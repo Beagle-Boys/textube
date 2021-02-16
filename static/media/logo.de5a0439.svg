@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="690.397" height="688.398" viewBox="0 0 690.397 688.398">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.11" y1="0.767" x2="1.083" y2="0.063" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#317def"/>
+      <stop offset="0.463" stop-color="#317def"/>
+      <stop offset="0.492" stop-color="#1848e6"/>
+      <stop offset="1" stop-color="#1848e6"/>
+    </linearGradient>
+    <filter id="Subtraction_6" x="0" y="158.806" width="425.232" height="425.232" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="9" result="blur"/>
+      <feFlood flood-opacity="0.749"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient-2" x1="0.58" y1="0.44" x2="0.591" y2="0.432" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff8c19"/>
+      <stop offset="0.478" stop-color="#ff9a57"/>
+      <stop offset="1" stop-color="#e36606"/>
+    </linearGradient>
+    <filter id="Subtraction_5" x="159.099" y="263.165" width="425.232" height="425.232" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="9" result="blur-2"/>
+      <feFlood flood-opacity="0.749"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient-3" x1="0.11" y1="0.767" x2="1.083" y2="0.063" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#00bc71"/>
+      <stop offset="0.463" stop-color="#34db7c"/>
+      <stop offset="0.492" stop-color="#00bc71"/>
+      <stop offset="1" stop-color="#34db7c"/>
+    </linearGradient>
+    <filter id="Subtraction_4" x="265.165" y="104.359" width="425.232" height="425.233" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="9" result="blur-3"/>
+      <feFlood flood-opacity="0.749"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient-4" x1="0.11" y1="0.767" x2="1.083" y2="0.063" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff4aed"/>
+      <stop offset="0.259" stop-color="#ff4aed"/>
+      <stop offset="0.463" stop-color="#ff4aed"/>
+      <stop offset="0.492" stop-color="#db34ca"/>
+      <stop offset="1" stop-color="#db34ca"/>
+    </linearGradient>
+    <filter id="Subtraction_3" x="106.066" y="0" width="425.233" height="425.232" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="9" result="blur-4"/>
+      <feFlood flood-opacity="0.749"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_4" data-name="Group 4" transform="translate(-614.802 -195.801)">
+    <g transform="matrix(1, 0, 0, 1, 614.8, 195.8)" filter="url(#Subtraction_6)">
+      <path id="Subtraction_6-2" data-name="Subtraction 6" d="M150,300a151.1,151.1,0,0,1-30.23-3.047,149.173,149.173,0,0,1-53.637-22.57,150.434,150.434,0,0,1-54.345-66,149.217,149.217,0,0,1-8.74-28.157A151.132,151.132,0,0,1,0,150V0H150a149.286,149.286,0,0,1,75,20.068,150.049,150.049,0,0,0,0,259.866A149.328,149.328,0,0,1,150,300Z" transform="translate(27 344.91) rotate(-45)" fill="url(#linear-gradient)"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 614.8, 195.8)" filter="url(#Subtraction_5)">
+      <path id="Subtraction_5-2" data-name="Subtraction 5" d="M150,300a151.1,151.1,0,0,1-30.23-3.047,149.173,149.173,0,0,1-53.637-22.57,150.434,150.434,0,0,1-54.345-66,149.217,149.217,0,0,1-8.74-28.157A151.133,151.133,0,0,1,0,150V0H150a149.286,149.286,0,0,1,75,20.068,150.049,150.049,0,0,0,0,259.866A149.328,149.328,0,0,1,150,300Z" transform="translate(345.2 661.4) rotate(-135)" fill="url(#linear-gradient-2)"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 614.8, 195.8)" filter="url(#Subtraction_4)">
+      <path id="Subtraction_4-2" data-name="Subtraction 4" d="M5765,907a151.1,151.1,0,0,1-30.23-3.047,149.173,149.173,0,0,1-53.637-22.57,150.434,150.434,0,0,1-54.345-66,149.217,149.217,0,0,1-8.74-28.157A151.133,151.133,0,0,1,5615,757V607h150a149.286,149.286,0,0,1,75,20.068,150.049,150.049,0,0,0,0,259.866A149.328,149.328,0,0,1,5765,907Z" transform="translate(5063.02 -3197.7) rotate(135)" fill="url(#linear-gradient-3)"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 614.8, 195.8)" filter="url(#Subtraction_3)">
+      <path id="Subtraction_3-2" data-name="Subtraction 3" d="M5765,907a151.1,151.1,0,0,1-30.23-3.047,149.173,149.173,0,0,1-53.637-22.57,150.434,150.434,0,0,1-54.345-66,149.217,149.217,0,0,1-8.74-28.157A151.133,151.133,0,0,1,5615,757V607h150a149.286,149.286,0,0,1,75,20.068,150.049,150.049,0,0,0,0,259.866A149.328,149.328,0,0,1,5765,907Z" transform="translate(-3195.99 -4372.62) rotate(45)" fill="url(#linear-gradient-4)"/>
+    </g>
+  </g>
+</svg>
