@@ -4,6 +4,9 @@ import './index.css';
 import App from './App';
 import * as serviceWorkerRegistration from './serviceWorkerRegistration';
 import reportWebVitals from './reportWebVitals';
+import ReactGA from 'react-ga';
+
+ReactGA.initialize('UA-117738764-3');
 
 ReactDOM.render(
   <React.StrictMode>
