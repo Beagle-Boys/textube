@@ -1,3 +1,6 @@
+# TEXTUBE
+![CI](https://github.com/Beagle-Boys/textube/workflows/CI/badge.svg?branch=master)
+
 ## RUN
 `npm start`
 
