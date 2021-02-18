@@ -1,0 +1,39 @@
+.appear {
+}
+.appearActive {
+}
+.appearDone {
+}
+.enter {
+  display: initial;
+  box-shadow: inset 7px 7px 14px #21141e, inset -7px -7px 14px #835278 !important;
+}
+.enterActive {
+  border-radius: 100%;
+  transform: scale(0);
+}
+.enterDone {
+  border-radius: 0%;
+}
+.exit {
+}
+.exitActive {
+  transform: scale(0);
+  box-shadow: 7px 7px 14px #21141e, -7px -7px 14px #835278;
+  border-radius: 100%;
+}
+.exitDone {
+  display: none;
+}
+.page {
+  width: 100vw;
+  height: 100vh;
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  top: 0;
+  left: 0;
+  box-shadow: 7px 7px 14px #21141e, -7px -7px 14px #835278;
+  transition: transform 300ms, border 100ms;
+}

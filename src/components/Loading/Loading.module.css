@@ -1,0 +1,29 @@
+.page {
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  position: relative;
+}
+.circle {
+  border-radius: 50%;
+  width: 30vw;
+  position: absolute;
+  height: 30vw;
+  background: linear-gradient(145deg, #583750, #4a2e44);
+  box-shadow: 50px 50px 100px #51324a, -50px -50px 100px #53344c;
+  margin: auto;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  animation: drop 800ms ease-in 0s infinite alternate none;
+}
+
+@keyframes drop {
+  from {
+    transform: scale(0);
+  }
+  to {
+    transform: scale(10);
+  }
+}
