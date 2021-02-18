@@ -1,25 +1,28 @@
 {
   "files": {
-    "main.css": "https://beagle-boys.github.io/textube/static/css/main.2cfec1e4.chunk.css",
-    "main.js": "https://beagle-boys.github.io/textube/static/js/main.85110899.chunk.js",
-    "main.js.map": "https://beagle-boys.github.io/textube/static/js/main.85110899.chunk.js.map",
-    "runtime-main.js": "https://beagle-boys.github.io/textube/static/js/runtime-main.1c294447.js",
-    "runtime-main.js.map": "https://beagle-boys.github.io/textube/static/js/runtime-main.1c294447.js.map",
-    "static/js/2.dc96f616.chunk.js": "https://beagle-boys.github.io/textube/static/js/2.dc96f616.chunk.js",
-    "static/js/2.dc96f616.chunk.js.map": "https://beagle-boys.github.io/textube/static/js/2.dc96f616.chunk.js.map",
-    "static/js/3.80d93c72.chunk.js": "https://beagle-boys.github.io/textube/static/js/3.80d93c72.chunk.js",
-    "static/js/3.80d93c72.chunk.js.map": "https://beagle-boys.github.io/textube/static/js/3.80d93c72.chunk.js.map",
+    "main.css": "https://beagle-boys.github.io/textube/static/css/main.1a9c0ec8.chunk.css",
+    "main.js": "https://beagle-boys.github.io/textube/static/js/main.f7a750bf.chunk.js",
+    "main.js.map": "https://beagle-boys.github.io/textube/static/js/main.f7a750bf.chunk.js.map",
+    "runtime-main.js": "https://beagle-boys.github.io/textube/static/js/runtime-main.f3cc0257.js",
+    "runtime-main.js.map": "https://beagle-boys.github.io/textube/static/js/runtime-main.f3cc0257.js.map",
+    "static/js/2.0e7c9677.chunk.js": "https://beagle-boys.github.io/textube/static/js/2.0e7c9677.chunk.js",
+    "static/js/2.0e7c9677.chunk.js.map": "https://beagle-boys.github.io/textube/static/js/2.0e7c9677.chunk.js.map",
+    "static/js/3.bae29699.chunk.js": "https://beagle-boys.github.io/textube/static/js/3.bae29699.chunk.js",
+    "static/js/3.bae29699.chunk.js.map": "https://beagle-boys.github.io/textube/static/js/3.bae29699.chunk.js.map",
+    "static/js/4.777f9d5d.chunk.js": "https://beagle-boys.github.io/textube/static/js/4.777f9d5d.chunk.js",
+    "static/js/4.777f9d5d.chunk.js.map": "https://beagle-boys.github.io/textube/static/js/4.777f9d5d.chunk.js.map",
+    "static/js/5.66fb365f.chunk.js": "https://beagle-boys.github.io/textube/static/js/5.66fb365f.chunk.js",
+    "static/js/5.66fb365f.chunk.js.map": "https://beagle-boys.github.io/textube/static/js/5.66fb365f.chunk.js.map",
     "index.html": "https://beagle-boys.github.io/textube/index.html",
     "service-worker.js": "https://beagle-boys.github.io/textube/service-worker.js",
     "service-worker.js.map": "https://beagle-boys.github.io/textube/service-worker.js.map",
-    "static/css/main.2cfec1e4.chunk.css.map": "https://beagle-boys.github.io/textube/static/css/main.2cfec1e4.chunk.css.map",
-    "static/js/2.dc96f616.chunk.js.LICENSE.txt": "https://beagle-boys.github.io/textube/static/js/2.dc96f616.chunk.js.LICENSE.txt",
-    "static/media/logo.de5a0439.svg": "https://beagle-boys.github.io/textube/static/media/logo.de5a0439.svg"
+    "static/css/main.1a9c0ec8.chunk.css.map": "https://beagle-boys.github.io/textube/static/css/main.1a9c0ec8.chunk.css.map",
+    "static/js/2.0e7c9677.chunk.js.LICENSE.txt": "https://beagle-boys.github.io/textube/static/js/2.0e7c9677.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.1c294447.js",
-    "static/js/2.dc96f616.chunk.js",
-    "static/css/main.2cfec1e4.chunk.css",
-    "static/js/main.85110899.chunk.js"
+    "static/js/runtime-main.f3cc0257.js",
+    "static/js/2.0e7c9677.chunk.js",
+    "static/css/main.1a9c0ec8.chunk.css",
+    "static/js/main.f7a750bf.chunk.js"
   ]
 }

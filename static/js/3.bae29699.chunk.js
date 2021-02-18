@@ -1,0 +1,2 @@
+(this.webpackJsonptextube=this.webpackJsonptextube||[]).push([[3],{36:function(t,e,r){"use strict";r.r(e);r(0);var s=r(11),c=r(1);e.default=function(){return Object(c.jsxs)("div",{children:["Error",Object(c.jsx)("br",{}),Object(c.jsx)(s.b,{to:"/",children:"Linked 2"})]})}}}]);
+//# sourceMappingURL=3.bae29699.chunk.js.map
